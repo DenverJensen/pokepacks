@@ -1,6 +1,5 @@
 {% extends 'pokepacks/base.html'%}
 
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -11,7 +10,9 @@
     </head>
     <body>
         {% block body %} {% csrf_token %}
-        <h1>You have been logged out</h1>
+        <div class="d-flex justify-content-center">
+            <h1>You have been logged out</h1>
+        </div>
         {% endblock %}
     </body>
 </html>

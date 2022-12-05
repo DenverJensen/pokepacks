@@ -13,7 +13,7 @@
             integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
             crossorigin="anonymous"
         />
-        <link rel="stylesheet" href="{% static 'pokepacks/base.css' %}"
+        <link rel="stylesheet" href="{% static 'pokepacks/base.css' %}" />
         <!-- JavaScript Bundle with Popper -->
         <script
             src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
@@ -21,7 +21,7 @@
             crossorigin="anonymous"
         ></script>
     </head>
-    <body >
+    <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-light hat">
             <a class="navbar-brand" href="#">PokePacks</a>
             <button
@@ -38,48 +38,31 @@
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#"
-                            >Home
-                        </a>
+                        <a class="nav-link" href="#">Home </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"
-                            >Open Pack</a
-                        >
+                        <a class="nav-link" href="#">Open Pack</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"
-                            >Collection</a
-                        >
+                        <a class="nav-link" href="#">Collection</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"
-                            >Market</a
-                        >
+                        <a class="nav-link" href="#">Market</a>
                     </li>
                     {% if user.is_authenticated %}
-                        <li class="nav-item">
-                            <a class="nav-link" href="/logout"
-                                >logout</a
-                            >
-                        </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/logout">logout</a>
+                    </li>
                     {% else %}
-                        <li class="nav-item">
-                            <a class="nav-link" href="/login"
-                                >login</a
-                            >
-                        </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/login">login</a>
+                    </li>
                     {% endif %}
                 </ul>
             </div>
         </nav>
-        {% if messages %}
-            {% for message in messages %}
-                <div class="alert alert-{{message.tags}}">
-                    {{message}}
-                </div>
-            {% endfor %}
-        {% endif %}
-        {% block body %} {% endblock %}
+        {% if messages %} {% for message in messages %}
+        <div class="alert alert-{{message.tags}}">{{message}}</div>
+        {% endfor %} {% endif %} {% block body %} {% endblock %}
     </body>
 </html>
