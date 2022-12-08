@@ -1,0 +1,792 @@
+1,Bulbasaur,Grass,Poison,1,FALSE,common
+2,Ivysaur,Grass,Poison,1,FALSE,common
+3,Venusaur,Grass,Poison,1,FALSE,common
+3,VenusaurMega Venusaur,Grass,Poison,1,FALSE,common
+4,Charmander,Fire,,1,FALSE,common
+5,Charmeleon,Fire,,1,FALSE,common
+6,Charizard,Fire,Flying,1,FALSE,common
+6,CharizardMega Charizard X,Fire,Dragon,1,FALSE,common
+6,CharizardMega Charizard Y,Fire,Flying,1,FALSE,common
+7,Squirtle,Water,,1,FALSE,common
+8,Wartortle,Water,,1,FALSE,common
+9,Blastoise,Water,,1,FALSE,common
+9,BlastoiseMega Blastoise,Water,,1,FALSE,common
+10,Caterpie,Bug,,1,FALSE,common
+11,Metapod,Bug,,1,FALSE,common
+12,Butterfree,Bug,Flying,1,FALSE,common
+13,Weedle,Bug,Poison,1,FALSE,common
+14,Kakuna,Bug,Poison,1,FALSE,common
+15,Beedrill,Bug,Poison,1,FALSE,common
+15,BeedrillMega Beedrill,Bug,Poison,1,FALSE,common
+16,Pidgey,Normal,Flying,1,FALSE,common
+17,Pidgeotto,Normal,Flying,1,FALSE,common
+18,Pidgeot,Normal,Flying,1,FALSE,common
+18,PidgeotMega Pidgeot,Normal,Flying,1,FALSE,common
+19,Rattata,Normal,,1,FALSE,common
+20,Raticate,Normal,,1,FALSE,common
+21,Spearow,Normal,Flying,1,FALSE,common
+22,Fearow,Normal,Flying,1,FALSE,common
+23,Ekans,Poison,,1,FALSE,common
+24,Arbok,Poison,,1,FALSE,common
+25,Pikachu,Electric,,1,FALSE,common
+26,Raichu,Electric,,1,FALSE,common
+27,Sandshrew,Ground,,1,FALSE,common
+28,Sandslash,Ground,,1,FALSE,common
+29,Nidoran♀,Poison,,1,FALSE,common
+30,Nidorina,Poison,,1,FALSE,common
+31,Nidoqueen,Poison,Ground,1,FALSE,common
+32,Nidoran♂,Poison,,1,FALSE,common
+33,Nidorino,Poison,,1,FALSE,common
+34,Nidoking,Poison,Ground,1,FALSE,common
+35,Clefairy,Fairy,,1,FALSE,common
+36,Clefable,Fairy,,1,FALSE,common
+37,Vulpix,Fire,,1,FALSE,common
+38,Ninetales,Fire,,1,FALSE,common
+39,Jigglypuff,Normal,Fairy,1,FALSE,common
+40,Wigglytuff,Normal,Fairy,1,FALSE,common
+41,Zubat,Poison,Flying,1,FALSE,common
+42,Golbat,Poison,Flying,1,FALSE,common
+43,Oddish,Grass,Poison,1,FALSE,common
+44,Gloom,Grass,Poison,1,FALSE,common
+45,Vileplume,Grass,Poison,1,FALSE,common
+46,Paras,Bug,Grass,1,FALSE,common
+47,Parasect,Bug,Grass,1,FALSE,common
+48,Venonat,Bug,Poison,1,FALSE,common
+49,Venomoth,Bug,Poison,1,FALSE,common
+50,Diglett,Ground,,1,FALSE,common
+51,Dugtrio,Ground,,1,FALSE,common
+52,Meowth,Normal,,1,FALSE,common
+53,Persian,Normal,,1,FALSE,common
+54,Psyduck,Water,,1,FALSE,common
+55,Golduck,Water,,1,FALSE,common
+56,Mankey,Fighting,,1,FALSE,common
+57,Primeape,Fighting,,1,FALSE,common
+58,Growlithe,Fire,,1,FALSE,common
+59,Arcanine,Fire,,1,FALSE,common
+60,Poliwag,Water,,1,FALSE,common
+61,Poliwhirl,Water,,1,FALSE,common
+62,Poliwrath,Water,Fighting,1,FALSE,common
+63,Abra,Psychic,,1,FALSE,common
+64,Kadabra,Psychic,,1,FALSE,common
+65,Alakazam,Psychic,,1,FALSE,common
+65,AlakazamMega Alakazam,Psychic,,1,FALSE,common
+66,Machop,Fighting,,1,FALSE,common
+67,Machoke,Fighting,,1,FALSE,common
+68,Machamp,Fighting,,1,FALSE,common
+69,Bellsprout,Grass,Poison,1,FALSE,common
+70,Weepinbell,Grass,Poison,1,FALSE,common
+71,Victreebel,Grass,Poison,1,FALSE,common
+72,Tentacool,Water,Poison,1,FALSE,common
+73,Tentacruel,Water,Poison,1,FALSE,common
+74,Geodude,Rock,Ground,1,FALSE,common
+75,Graveler,Rock,Ground,1,FALSE,common
+76,Golem,Rock,Ground,1,FALSE,common
+77,Ponyta,Fire,,1,FALSE,common
+78,Rapidash,Fire,,1,FALSE,common
+79,Slowpoke,Water,Psychic,1,FALSE,common
+80,Slowbro,Water,Psychic,1,FALSE,common
+80,SlowbroMega Slowbro,Water,Psychic,1,FALSE,common
+81,Magnemite,Electric,Steel,1,FALSE,common
+82,Magneton,Electric,Steel,1,FALSE,common
+83,Farfetch'd,Normal,Flying,1,FALSE,common
+84,Doduo,Normal,Flying,1,FALSE,common
+85,Dodrio,Normal,Flying,1,FALSE,common
+86,Seel,Water,,1,FALSE,common
+87,Dewgong,Water,Ice,1,FALSE,common
+88,Grimer,Poison,,1,FALSE,common
+89,Muk,Poison,,1,FALSE,common
+90,Shellder,Water,,1,FALSE,common
+91,Cloyster,Water,Ice,1,FALSE,common
+92,Gastly,Ghost,Poison,1,FALSE,common
+93,Haunter,Ghost,Poison,1,FALSE,common
+94,Gengar,Ghost,Poison,1,FALSE,common
+94,GengarMega Gengar,Ghost,Poison,1,FALSE,common
+95,Onix,Rock,Ground,1,FALSE,common
+96,Drowzee,Psychic,,1,FALSE,common
+97,Hypno,Psychic,,1,FALSE,common
+98,Krabby,Water,,1,FALSE,common
+99,Kingler,Water,,1,FALSE,common
+100,Voltorb,Electric,,1,FALSE,common
+101,Electrode,Electric,,1,FALSE,common
+102,Exeggcute,Grass,Psychic,1,FALSE,common
+103,Exeggutor,Grass,Psychic,1,FALSE,common
+104,Cubone,Ground,,1,FALSE,common
+105,Marowak,Ground,,1,FALSE,common
+106,Hitmonlee,Fighting,,1,FALSE,common
+107,Hitmonchan,Fighting,,1,FALSE,common
+108,Lickitung,Normal,,1,FALSE,common
+109,Koffing,Poison,,1,FALSE,common
+110,Weezing,Poison,,1,FALSE,common
+111,Rhyhorn,Ground,Rock,1,FALSE,common
+112,Rhydon,Ground,Rock,1,FALSE,common
+113,Chansey,Normal,,1,FALSE,common
+114,Tangela,Grass,,1,FALSE,common
+115,Kangaskhan,Normal,,1,FALSE,common
+115,KangaskhanMega Kangaskhan,Normal,,1,FALSE,common
+116,Horsea,Water,,1,FALSE,common
+117,Seadra,Water,,1,FALSE,common
+118,Goldeen,Water,,1,FALSE,common
+119,Seaking,Water,,1,FALSE,common
+120,Staryu,Water,,1,FALSE,common
+121,Starmie,Water,Psychic,1,FALSE,common
+122,Mr. Mime,Psychic,Fairy,1,FALSE,common
+123,Scyther,Bug,Flying,1,FALSE,common
+124,Jynx,Ice,Psychic,1,FALSE,common
+125,Electabuzz,Electric,,1,FALSE,common
+126,Magmar,Fire,,1,FALSE,common
+127,Pinsir,Bug,,1,FALSE,common
+127,PinsirMega Pinsir,Bug,Flying,1,FALSE,common
+128,Tauros,Normal,,1,FALSE,common
+129,Magikarp,Water,,1,FALSE,common
+130,Gyarados,Water,Flying,1,FALSE,common
+130,GyaradosMega Gyarados,Water,Dark,1,FALSE,common
+131,Lapras,Water,Ice,1,FALSE,common
+132,Ditto,Normal,,1,FALSE,common
+133,Eevee,Normal,,1,FALSE,common
+134,Vaporeon,Water,,1,FALSE,common
+135,Jolteon,Electric,,1,FALSE,common
+136,Flareon,Fire,,1,FALSE,common
+137,Porygon,Normal,,1,FALSE,common
+138,Omanyte,Rock,Water,1,FALSE,common
+139,Omastar,Rock,Water,1,FALSE,common
+140,Kabuto,Rock,Water,1,FALSE,common
+141,Kabutops,Rock,Water,1,FALSE,common
+142,Aerodactyl,Rock,Flying,1,FALSE,common
+142,AerodactylMega Aerodactyl,Rock,Flying,1,FALSE,common
+143,Snorlax,Normal,,1,FALSE,common
+144,Articuno,Ice,Flying,1,TRUE,rare
+145,Zapdos,Electric,Flying,1,TRUE,rare
+146,Moltres,Fire,Flying,1,TRUE,rare
+147,Dratini,Dragon,,1,FALSE,common
+148,Dragonair,Dragon,,1,FALSE,common
+149,Dragonite,Dragon,Flying,1,FALSE,common
+150,Mewtwo,Psychic,,1,TRUE,rare
+150,MewtwoMega Mewtwo X,Psychic,Fighting,1,TRUE,rare
+150,MewtwoMega Mewtwo Y,Psychic,,1,TRUE,rare
+151,Mew,Psychic,,1,FALSE,common
+152,Chikorita,Grass,,2,FALSE,common
+153,Bayleef,Grass,,2,FALSE,common
+154,Meganium,Grass,,2,FALSE,common
+155,Cyndaquil,Fire,,2,FALSE,common
+156,Quilava,Fire,,2,FALSE,common
+157,Typhlosion,Fire,,2,FALSE,common
+158,Totodile,Water,,2,FALSE,common
+159,Croconaw,Water,,2,FALSE,common
+160,Feraligatr,Water,,2,FALSE,common
+161,Sentret,Normal,,2,FALSE,common
+162,Furret,Normal,,2,FALSE,common
+163,Hoothoot,Normal,Flying,2,FALSE,common
+164,Noctowl,Normal,Flying,2,FALSE,common
+165,Ledyba,Bug,Flying,2,FALSE,common
+166,Ledian,Bug,Flying,2,FALSE,common
+167,Spinarak,Bug,Poison,2,FALSE,common
+168,Ariados,Bug,Poison,2,FALSE,common
+169,Crobat,Poison,Flying,2,FALSE,common
+170,Chinchou,Water,Electric,2,FALSE,common
+171,Lanturn,Water,Electric,2,FALSE,common
+172,Pichu,Electric,,2,FALSE,common
+173,Cleffa,Fairy,,2,FALSE,common
+174,Igglybuff,Normal,Fairy,2,FALSE,common
+175,Togepi,Fairy,,2,FALSE,common
+176,Togetic,Fairy,Flying,2,FALSE,common
+177,Natu,Psychic,Flying,2,FALSE,common
+178,Xatu,Psychic,Flying,2,FALSE,common
+179,Mareep,Electric,,2,FALSE,common
+180,Flaaffy,Electric,,2,FALSE,common
+181,Ampharos,Electric,,2,FALSE,common
+181,AmpharosMega Ampharos,Electric,Dragon,2,FALSE,common
+182,Bellossom,Grass,,2,FALSE,common
+183,Marill,Water,Fairy,2,FALSE,common
+184,Azumarill,Water,Fairy,2,FALSE,common
+185,Sudowoodo,Rock,,2,FALSE,common
+186,Politoed,Water,,2,FALSE,common
+187,Hoppip,Grass,Flying,2,FALSE,common
+188,Skiploom,Grass,Flying,2,FALSE,common
+189,Jumpluff,Grass,Flying,2,FALSE,common
+190,Aipom,Normal,,2,FALSE,common
+191,Sunkern,Grass,,2,FALSE,common
+192,Sunflora,Grass,,2,FALSE,common
+193,Yanma,Bug,Flying,2,FALSE,common
+194,Wooper,Water,Ground,2,FALSE,common
+195,Quagsire,Water,Ground,2,FALSE,common
+196,Espeon,Psychic,,2,FALSE,common
+197,Umbreon,Dark,,2,FALSE,common
+198,Murkrow,Dark,Flying,2,FALSE,common
+199,Slowking,Water,Psychic,2,FALSE,common
+200,Misdreavus,Ghost,,2,FALSE,common
+201,Unown,Psychic,,2,FALSE,common
+202,Wobbuffet,Psychic,,2,FALSE,common
+203,Girafarig,Normal,Psychic,2,FALSE,common
+204,Pineco,Bug,,2,FALSE,common
+205,Forretress,Bug,Steel,2,FALSE,common
+206,Dunsparce,Normal,,2,FALSE,common
+207,Gligar,Ground,Flying,2,FALSE,common
+208,Steelix,Steel,Ground,2,FALSE,common
+208,SteelixMega Steelix,Steel,Ground,2,FALSE,common
+209,Snubbull,Fairy,,2,FALSE,common
+210,Granbull,Fairy,,2,FALSE,common
+211,Qwilfish,Water,Poison,2,FALSE,common
+212,Scizor,Bug,Steel,2,FALSE,common
+212,ScizorMega Scizor,Bug,Steel,2,FALSE,common
+213,Shuckle,Bug,Rock,2,FALSE,common
+214,Heracross,Bug,Fighting,2,FALSE,common
+214,HeracrossMega Heracross,Bug,Fighting,2,FALSE,common
+215,Sneasel,Dark,Ice,2,FALSE,common
+216,Teddiursa,Normal,,2,FALSE,common
+217,Ursaring,Normal,,2,FALSE,common
+218,Slugma,Fire,,2,FALSE,common
+219,Magcargo,Fire,Rock,2,FALSE,common
+220,Swinub,Ice,Ground,2,FALSE,common
+221,Piloswine,Ice,Ground,2,FALSE,common
+222,Corsola,Water,Rock,2,FALSE,common
+223,Remoraid,Water,,2,FALSE,common
+224,Octillery,Water,,2,FALSE,common
+225,Delibird,Ice,Flying,2,FALSE,common
+226,Mantine,Water,Flying,2,FALSE,common
+227,Skarmory,Steel,Flying,2,FALSE,common
+228,Houndour,Dark,Fire,2,FALSE,common
+229,Houndoom,Dark,Fire,2,FALSE,common
+229,HoundoomMega Houndoom,Dark,Fire,2,FALSE,common
+230,Kingdra,Water,Dragon,2,FALSE,common
+231,Phanpy,Ground,,2,FALSE,common
+232,Donphan,Ground,,2,FALSE,common
+233,Porygon2,Normal,,2,FALSE,common
+234,Stantler,Normal,,2,FALSE,common
+235,Smeargle,Normal,,2,FALSE,common
+236,Tyrogue,Fighting,,2,FALSE,common
+237,Hitmontop,Fighting,,2,FALSE,common
+238,Smoochum,Ice,Psychic,2,FALSE,common
+239,Elekid,Electric,,2,FALSE,common
+240,Magby,Fire,,2,FALSE,common
+241,Miltank,Normal,,2,FALSE,common
+242,Blissey,Normal,,2,FALSE,common
+243,Raikou,Electric,,2,TRUE,rare
+244,Entei,Fire,,2,TRUE,rare
+245,Suicune,Water,,2,TRUE,rare
+246,Larvitar,Rock,Ground,2,FALSE,common
+247,Pupitar,Rock,Ground,2,FALSE,common
+248,Tyranitar,Rock,Dark,2,FALSE,common
+248,TyranitarMega Tyranitar,Rock,Dark,2,FALSE,common
+249,Lugia,Psychic,Flying,2,TRUE,rare
+250,Ho-oh,Fire,Flying,2,TRUE,rare
+251,Celebi,Psychic,Grass,2,FALSE,common
+252,Treecko,Grass,,3,FALSE,common
+253,Grovyle,Grass,,3,FALSE,common
+254,Sceptile,Grass,,3,FALSE,common
+254,SceptileMega Sceptile,Grass,Dragon,3,FALSE,common
+255,Torchic,Fire,,3,FALSE,common
+256,Combusken,Fire,Fighting,3,FALSE,common
+257,Blaziken,Fire,Fighting,3,FALSE,common
+257,BlazikenMega Blaziken,Fire,Fighting,3,FALSE,common
+258,Mudkip,Water,,3,FALSE,common
+259,Marshtomp,Water,Ground,3,FALSE,common
+260,Swampert,Water,Ground,3,FALSE,common
+260,SwampertMega Swampert,Water,Ground,3,FALSE,common
+261,Poochyena,Dark,,3,FALSE,common
+262,Mightyena,Dark,,3,FALSE,common
+263,Zigzagoon,Normal,,3,FALSE,common
+264,Linoone,Normal,,3,FALSE,common
+265,Wurmple,Bug,,3,FALSE,common
+266,Silcoon,Bug,,3,FALSE,common
+267,Beautifly,Bug,Flying,3,FALSE,common
+268,Cascoon,Bug,,3,FALSE,common
+269,Dustox,Bug,Poison,3,FALSE,common
+270,Lotad,Water,Grass,3,FALSE,common
+271,Lombre,Water,Grass,3,FALSE,common
+272,Ludicolo,Water,Grass,3,FALSE,common
+273,Seedot,Grass,,3,FALSE,common
+274,Nuzleaf,Grass,Dark,3,FALSE,common
+275,Shiftry,Grass,Dark,3,FALSE,common
+276,Taillow,Normal,Flying,3,FALSE,common
+277,Swellow,Normal,Flying,3,FALSE,common
+278,Wingull,Water,Flying,3,FALSE,common
+279,Pelipper,Water,Flying,3,FALSE,common
+280,Ralts,Psychic,Fairy,3,FALSE,common
+281,Kirlia,Psychic,Fairy,3,FALSE,common
+282,Gardevoir,Psychic,Fairy,3,FALSE,common
+282,GardevoirMega Gardevoir,Psychic,Fairy,3,FALSE,common
+283,Surskit,Bug,Water,3,FALSE,common
+284,Masquerain,Bug,Flying,3,FALSE,common
+285,Shroomish,Grass,,3,FALSE,common
+286,Breloom,Grass,Fighting,3,FALSE,common
+287,Slakoth,Normal,,3,FALSE,common
+288,Vigoroth,Normal,,3,FALSE,common
+289,Slaking,Normal,,3,FALSE,common
+290,Nincada,Bug,Ground,3,FALSE,common
+291,Ninjask,Bug,Flying,3,FALSE,common
+292,Shedinja,Bug,Ghost,3,FALSE,common
+293,Whismur,Normal,,3,FALSE,common
+294,Loudred,Normal,,3,FALSE,common
+295,Exploud,Normal,,3,FALSE,common
+296,Makuhita,Fighting,,3,FALSE,common
+297,Hariyama,Fighting,,3,FALSE,common
+298,Azurill,Normal,Fairy,3,FALSE,common
+299,Nosepass,Rock,,3,FALSE,common
+300,Skitty,Normal,,3,FALSE,common
+301,Delcatty,Normal,,3,FALSE,common
+302,Sableye,Dark,Ghost,3,FALSE,common
+302,SableyeMega Sableye,Dark,Ghost,3,FALSE,common
+303,Mawile,Steel,Fairy,3,FALSE,common
+303,MawileMega Mawile,Steel,Fairy,3,FALSE,common
+304,Aron,Steel,Rock,3,FALSE,common
+305,Lairon,Steel,Rock,3,FALSE,common
+306,Aggron,Steel,Rock,3,FALSE,common
+306,AggronMega Aggron,Steel,,3,FALSE,common
+307,Meditite,Fighting,Psychic,3,FALSE,common
+308,Medicham,Fighting,Psychic,3,FALSE,common
+308,MedichamMega Medicham,Fighting,Psychic,3,FALSE,common
+309,Electrike,Electric,,3,FALSE,common
+310,Manectric,Electric,,3,FALSE,common
+310,ManectricMega Manectric,Electric,,3,FALSE,common
+311,Plusle,Electric,,3,FALSE,common
+312,Minun,Electric,,3,FALSE,common
+313,Volbeat,Bug,,3,FALSE,common
+314,Illumise,Bug,,3,FALSE,common
+315,Roselia,Grass,Poison,3,FALSE,common
+316,Gulpin,Poison,,3,FALSE,common
+317,Swalot,Poison,,3,FALSE,common
+318,Carvanha,Water,Dark,3,FALSE,common
+319,Sharpedo,Water,Dark,3,FALSE,common
+319,SharpedoMega Sharpedo,Water,Dark,3,FALSE,common
+320,Wailmer,Water,,3,FALSE,common
+321,Wailord,Water,,3,FALSE,common
+322,Numel,Fire,Ground,3,FALSE,common
+323,Camerupt,Fire,Ground,3,FALSE,common
+323,CameruptMega Camerupt,Fire,Ground,3,FALSE,common
+324,Torkoal,Fire,,3,FALSE,common
+325,Spoink,Psychic,,3,FALSE,common
+326,Grumpig,Psychic,,3,FALSE,common
+327,Spinda,Normal,,3,FALSE,common
+328,Trapinch,Ground,,3,FALSE,common
+329,Vibrava,Ground,Dragon,3,FALSE,common
+330,Flygon,Ground,Dragon,3,FALSE,common
+331,Cacnea,Grass,,3,FALSE,common
+332,Cacturne,Grass,Dark,3,FALSE,common
+333,Swablu,Normal,Flying,3,FALSE,common
+334,Altaria,Dragon,Flying,3,FALSE,common
+334,AltariaMega Altaria,Dragon,Fairy,3,FALSE,common
+335,Zangoose,Normal,,3,FALSE,common
+336,Seviper,Poison,,3,FALSE,common
+337,Lunatone,Rock,Psychic,3,FALSE,common
+338,Solrock,Rock,Psychic,3,FALSE,common
+339,Barboach,Water,Ground,3,FALSE,common
+340,Whiscash,Water,Ground,3,FALSE,common
+341,Corphish,Water,,3,FALSE,common
+342,Crawdaunt,Water,Dark,3,FALSE,common
+343,Baltoy,Ground,Psychic,3,FALSE,common
+344,Claydol,Ground,Psychic,3,FALSE,common
+345,Lileep,Rock,Grass,3,FALSE,common
+346,Cradily,Rock,Grass,3,FALSE,common
+347,Anorith,Rock,Bug,3,FALSE,common
+348,Armaldo,Rock,Bug,3,FALSE,common
+349,Feebas,Water,,3,FALSE,common
+350,Milotic,Water,,3,FALSE,common
+351,Castform,Normal,,3,FALSE,common
+352,Kecleon,Normal,,3,FALSE,common
+353,Shuppet,Ghost,,3,FALSE,common
+354,Banette,Ghost,,3,FALSE,common
+354,BanetteMega Banette,Ghost,,3,FALSE,common
+355,Duskull,Ghost,,3,FALSE,common
+356,Dusclops,Ghost,,3,FALSE,common
+357,Tropius,Grass,Flying,3,FALSE,common
+358,Chimecho,Psychic,,3,FALSE,common
+359,Absol,Dark,,3,FALSE,common
+359,AbsolMega Absol,Dark,,3,FALSE,common
+360,Wynaut,Psychic,,3,FALSE,common
+361,Snorunt,Ice,,3,FALSE,common
+362,Glalie,Ice,,3,FALSE,common
+362,GlalieMega Glalie,Ice,,3,FALSE,common
+363,Spheal,Ice,Water,3,FALSE,common
+364,Sealeo,Ice,Water,3,FALSE,common
+365,Walrein,Ice,Water,3,FALSE,common
+366,Clamperl,Water,,3,FALSE,common
+367,Huntail,Water,,3,FALSE,common
+368,Gorebyss,Water,,3,FALSE,common
+369,Relicanth,Water,Rock,3,FALSE,common
+370,Luvdisc,Water,,3,FALSE,common
+371,Bagon,Dragon,,3,FALSE,common
+372,Shelgon,Dragon,,3,FALSE,common
+373,Salamence,Dragon,Flying,3,FALSE,common
+373,SalamenceMega Salamence,Dragon,Flying,3,FALSE,common
+374,Beldum,Steel,Psychic,3,FALSE,common
+375,Metang,Steel,Psychic,3,FALSE,common
+376,Metagross,Steel,Psychic,3,FALSE,common
+376,MetagrossMega Metagross,Steel,Psychic,3,FALSE,common
+377,Regirock,Rock,,3,TRUE,rare
+378,Regice,Ice,,3,TRUE,rare
+379,Registeel,Steel,,3,TRUE,rare
+380,Latias,Dragon,Psychic,3,TRUE,rare
+380,LatiasMega Latias,Dragon,Psychic,3,TRUE,rare
+381,Latios,Dragon,Psychic,3,TRUE,rare
+381,LatiosMega Latios,Dragon,Psychic,3,TRUE,rare
+382,Kyogre,Water,,3,TRUE,rare
+382,KyogrePrimal Kyogre,Water,,3,TRUE,rare
+383,Groudon,Ground,,3,TRUE,rare
+383,GroudonPrimal Groudon,Ground,Fire,3,TRUE,rare
+384,Rayquaza,Dragon,Flying,3,TRUE,rare
+384,RayquazaMega Rayquaza,Dragon,Flying,3,TRUE,rare
+385,Jirachi,Steel,Psychic,3,TRUE,rare
+386,DeoxysNormal Forme,Psychic,,3,TRUE,rare
+386,DeoxysAttack Forme,Psychic,,3,TRUE,rare
+386,DeoxysDefense Forme,Psychic,,3,TRUE,rare
+386,DeoxysSpeed Forme,Psychic,,3,TRUE,rare
+387,Turtwig,Grass,,4,FALSE,common
+388,Grotle,Grass,,4,FALSE,common
+389,Torterra,Grass,Ground,4,FALSE,common
+390,Chimchar,Fire,,4,FALSE,common
+391,Monferno,Fire,Fighting,4,FALSE,common
+392,Infernape,Fire,Fighting,4,FALSE,common
+393,Piplup,Water,,4,FALSE,common
+394,Prinplup,Water,,4,FALSE,common
+395,Empoleon,Water,Steel,4,FALSE,common
+396,Starly,Normal,Flying,4,FALSE,common
+397,Staravia,Normal,Flying,4,FALSE,common
+398,Staraptor,Normal,Flying,4,FALSE,common
+399,Bidoof,Normal,,4,FALSE,common
+400,Bibarel,Normal,Water,4,FALSE,common
+401,Kricketot,Bug,,4,FALSE,common
+402,Kricketune,Bug,,4,FALSE,common
+403,Shinx,Electric,,4,FALSE,common
+404,Luxio,Electric,,4,FALSE,common
+405,Luxray,Electric,,4,FALSE,common
+406,Budew,Grass,Poison,4,FALSE,common
+407,Roserade,Grass,Poison,4,FALSE,common
+408,Cranidos,Rock,,4,FALSE,common
+409,Rampardos,Rock,,4,FALSE,common
+410,Shieldon,Rock,Steel,4,FALSE,common
+411,Bastiodon,Rock,Steel,4,FALSE,common
+412,Burmy,Bug,,4,FALSE,common
+413,WormadamPlant Cloak,Bug,Grass,4,FALSE,common
+413,WormadamSandy Cloak,Bug,Ground,4,FALSE,common
+413,WormadamTrash Cloak,Bug,Steel,4,FALSE,common
+414,Mothim,Bug,Flying,4,FALSE,common
+415,Combee,Bug,Flying,4,FALSE,common
+416,Vespiquen,Bug,Flying,4,FALSE,common
+417,Pachirisu,Electric,,4,FALSE,common
+418,Buizel,Water,,4,FALSE,common
+419,Floatzel,Water,,4,FALSE,common
+420,Cherubi,Grass,,4,FALSE,common
+421,Cherrim,Grass,,4,FALSE,common
+422,Shellos,Water,,4,FALSE,common
+423,Gastrodon,Water,Ground,4,FALSE,common
+424,Ambipom,Normal,,4,FALSE,common
+425,Drifloon,Ghost,Flying,4,FALSE,common
+426,Drifblim,Ghost,Flying,4,FALSE,common
+427,Buneary,Normal,,4,FALSE,common
+428,Lopunny,Normal,,4,FALSE,common
+428,LopunnyMega Lopunny,Normal,Fighting,4,FALSE,common
+429,Mismagius,Ghost,,4,FALSE,common
+430,Honchkrow,Dark,Flying,4,FALSE,common
+431,Glameow,Normal,,4,FALSE,common
+432,Purugly,Normal,,4,FALSE,common
+433,Chingling,Psychic,,4,FALSE,common
+434,Stunky,Poison,Dark,4,FALSE,common
+435,Skuntank,Poison,Dark,4,FALSE,common
+436,Bronzor,Steel,Psychic,4,FALSE,common
+437,Bronzong,Steel,Psychic,4,FALSE,common
+438,Bonsly,Rock,,4,FALSE,common
+439,Mime Jr.,Psychic,Fairy,4,FALSE,common
+440,Happiny,Normal,,4,FALSE,common
+441,Chatot,Normal,Flying,4,FALSE,common
+442,Spiritomb,Ghost,Dark,4,FALSE,common
+443,Gible,Dragon,Ground,4,FALSE,common
+444,Gabite,Dragon,Ground,4,FALSE,common
+445,Garchomp,Dragon,Ground,4,FALSE,common
+445,GarchompMega Garchomp,Dragon,Ground,4,FALSE,common
+446,Munchlax,Normal,,4,FALSE,common
+447,Riolu,Fighting,,4,FALSE,common
+448,Lucario,Fighting,Steel,4,FALSE,common
+448,LucarioMega Lucario,Fighting,Steel,4,FALSE,common
+449,Hippopotas,Ground,,4,FALSE,common
+450,Hippowdon,Ground,,4,FALSE,common
+451,Skorupi,Poison,Bug,4,FALSE,common
+452,Drapion,Poison,Dark,4,FALSE,common
+453,Croagunk,Poison,Fighting,4,FALSE,common
+454,Toxicroak,Poison,Fighting,4,FALSE,common
+455,Carnivine,Grass,,4,FALSE,common
+456,Finneon,Water,,4,FALSE,common
+457,Lumineon,Water,,4,FALSE,common
+458,Mantyke,Water,Flying,4,FALSE,common
+459,Snover,Grass,Ice,4,FALSE,common
+460,Abomasnow,Grass,Ice,4,FALSE,common
+460,AbomasnowMega Abomasnow,Grass,Ice,4,FALSE,common
+461,Weavile,Dark,Ice,4,FALSE,common
+462,Magnezone,Electric,Steel,4,FALSE,common
+463,Lickilicky,Normal,,4,FALSE,common
+464,Rhyperior,Ground,Rock,4,FALSE,common
+465,Tangrowth,Grass,,4,FALSE,common
+466,Electivire,Electric,,4,FALSE,common
+467,Magmortar,Fire,,4,FALSE,common
+468,Togekiss,Fairy,Flying,4,FALSE,common
+469,Yanmega,Bug,Flying,4,FALSE,common
+470,Leafeon,Grass,,4,FALSE,common
+471,Glaceon,Ice,,4,FALSE,common
+472,Gliscor,Ground,Flying,4,FALSE,common
+473,Mamoswine,Ice,Ground,4,FALSE,common
+474,Porygon-Z,Normal,,4,FALSE,common
+475,Gallade,Psychic,Fighting,4,FALSE,common
+475,GalladeMega Gallade,Psychic,Fighting,4,FALSE,common
+476,Probopass,Rock,Steel,4,FALSE,common
+477,Dusknoir,Ghost,,4,FALSE,common
+478,Froslass,Ice,Ghost,4,FALSE,common
+479,Rotom,Electric,Ghost,4,FALSE,common
+479,RotomHeat Rotom,Electric,Fire,4,FALSE,common
+479,RotomWash Rotom,Electric,Water,4,FALSE,common
+479,RotomFrost Rotom,Electric,Ice,4,FALSE,common
+479,RotomFan Rotom,Electric,Flying,4,FALSE,common
+479,RotomMow Rotom,Electric,Grass,4,FALSE,common
+480,Uxie,Psychic,,4,TRUE,rare
+481,Mesprit,Psychic,,4,TRUE,rare
+482,Azelf,Psychic,,4,TRUE,rare
+483,Dialga,Steel,Dragon,4,TRUE,rare
+484,Palkia,Water,Dragon,4,TRUE,rare
+485,Heatran,Fire,Steel,4,TRUE,rare
+486,Regigigas,Normal,,4,TRUE,rare
+487,GiratinaAltered Forme,Ghost,Dragon,4,TRUE,rare
+487,GiratinaOrigin Forme,Ghost,Dragon,4,TRUE,rare
+488,Cresselia,Psychic,,4,FALSE,common
+489,Phione,Water,,4,FALSE,common
+490,Manaphy,Water,,4,FALSE,common
+491,Darkrai,Dark,,4,TRUE,rare
+492,ShayminLand Forme,Grass,,4,TRUE,rare
+492,ShayminSky Forme,Grass,Flying,4,TRUE,rare
+493,Arceus,Normal,,4,TRUE,rare
+494,Victini,Psychic,Fire,5,TRUE,rare
+495,Snivy,Grass,,5,FALSE,common
+496,Servine,Grass,,5,FALSE,common
+497,Serperior,Grass,,5,FALSE,common
+498,Tepig,Fire,,5,FALSE,common
+499,Pignite,Fire,Fighting,5,FALSE,common
+500,Emboar,Fire,Fighting,5,FALSE,common
+501,Oshawott,Water,,5,FALSE,common
+502,Dewott,Water,,5,FALSE,common
+503,Samurott,Water,,5,FALSE,common
+504,Patrat,Normal,,5,FALSE,common
+505,Watchog,Normal,,5,FALSE,common
+506,Lillipup,Normal,,5,FALSE,common
+507,Herdier,Normal,,5,FALSE,common
+508,Stoutland,Normal,,5,FALSE,common
+509,Purrloin,Dark,,5,FALSE,common
+510,Liepard,Dark,,5,FALSE,common
+511,Pansage,Grass,,5,FALSE,common
+512,Simisage,Grass,,5,FALSE,common
+513,Pansear,Fire,,5,FALSE,common
+514,Simisear,Fire,,5,FALSE,common
+515,Panpour,Water,,5,FALSE,common
+516,Simipour,Water,,5,FALSE,common
+517,Munna,Psychic,,5,FALSE,common
+518,Musharna,Psychic,,5,FALSE,common
+519,Pidove,Normal,Flying,5,FALSE,common
+520,Tranquill,Normal,Flying,5,FALSE,common
+521,Unfezant,Normal,Flying,5,FALSE,common
+522,Blitzle,Electric,,5,FALSE,common
+523,Zebstrika,Electric,,5,FALSE,common
+524,Roggenrola,Rock,,5,FALSE,common
+525,Boldore,Rock,,5,FALSE,common
+526,Gigalith,Rock,,5,FALSE,common
+527,Woobat,Psychic,Flying,5,FALSE,common
+528,Swoobat,Psychic,Flying,5,FALSE,common
+529,Drilbur,Ground,,5,FALSE,common
+530,Excadrill,Ground,Steel,5,FALSE,common
+531,Audino,Normal,,5,FALSE,common
+531,AudinoMega Audino,Normal,Fairy,5,FALSE,common
+532,Timburr,Fighting,,5,FALSE,common
+533,Gurdurr,Fighting,,5,FALSE,common
+534,Conkeldurr,Fighting,,5,FALSE,common
+535,Tympole,Water,,5,FALSE,common
+536,Palpitoad,Water,Ground,5,FALSE,common
+537,Seismitoad,Water,Ground,5,FALSE,common
+538,Throh,Fighting,,5,FALSE,common
+539,Sawk,Fighting,,5,FALSE,common
+540,Sewaddle,Bug,Grass,5,FALSE,common
+541,Swadloon,Bug,Grass,5,FALSE,common
+542,Leavanny,Bug,Grass,5,FALSE,common
+543,Venipede,Bug,Poison,5,FALSE,common
+544,Whirlipede,Bug,Poison,5,FALSE,common
+545,Scolipede,Bug,Poison,5,FALSE,common
+546,Cottonee,Grass,Fairy,5,FALSE,common
+547,Whimsicott,Grass,Fairy,5,FALSE,common
+548,Petilil,Grass,,5,FALSE,common
+549,Lilligant,Grass,,5,FALSE,common
+550,Basculin,Water,,5,FALSE,common
+551,Sandile,Ground,Dark,5,FALSE,common
+552,Krokorok,Ground,Dark,5,FALSE,common
+553,Krookodile,Ground,Dark,5,FALSE,common
+554,Darumaka,Fire,,5,FALSE,common
+555,DarmanitanStandard Mode,Fire,,5,FALSE,common
+555,DarmanitanZen Mode,Fire,Psychic,5,FALSE,common
+556,Maractus,Grass,,5,FALSE,common
+557,Dwebble,Bug,Rock,5,FALSE,common
+558,Crustle,Bug,Rock,5,FALSE,common
+559,Scraggy,Dark,Fighting,5,FALSE,common
+560,Scrafty,Dark,Fighting,5,FALSE,common
+561,Sigilyph,Psychic,Flying,5,FALSE,common
+562,Yamask,Ghost,,5,FALSE,common
+563,Cofagrigus,Ghost,,5,FALSE,common
+564,Tirtouga,Water,Rock,5,FALSE,common
+565,Carracosta,Water,Rock,5,FALSE,common
+566,Archen,Rock,Flying,5,FALSE,common
+567,Archeops,Rock,Flying,5,FALSE,common
+568,Trubbish,Poison,,5,FALSE,common
+569,Garbodor,Poison,,5,FALSE,common
+570,Zorua,Dark,,5,FALSE,common
+571,Zoroark,Dark,,5,FALSE,common
+572,Minccino,Normal,,5,FALSE,common
+573,Cinccino,Normal,,5,FALSE,common
+574,Gothita,Psychic,,5,FALSE,common
+575,Gothorita,Psychic,,5,FALSE,common
+576,Gothitelle,Psychic,,5,FALSE,common
+577,Solosis,Psychic,,5,FALSE,common
+578,Duosion,Psychic,,5,FALSE,common
+579,Reuniclus,Psychic,,5,FALSE,common
+580,Ducklett,Water,Flying,5,FALSE,common
+581,Swanna,Water,Flying,5,FALSE,common
+582,Vanillite,Ice,,5,FALSE,common
+583,Vanillish,Ice,,5,FALSE,common
+584,Vanilluxe,Ice,,5,FALSE,common
+585,Deerling,Normal,Grass,5,FALSE,common
+586,Sawsbuck,Normal,Grass,5,FALSE,common
+587,Emolga,Electric,Flying,5,FALSE,common
+588,Karrablast,Bug,,5,FALSE,common
+589,Escavalier,Bug,Steel,5,FALSE,common
+590,Foongus,Grass,Poison,5,FALSE,common
+591,Amoonguss,Grass,Poison,5,FALSE,common
+592,Frillish,Water,Ghost,5,FALSE,common
+593,Jellicent,Water,Ghost,5,FALSE,common
+594,Alomomola,Water,,5,FALSE,common
+595,Joltik,Bug,Electric,5,FALSE,common
+596,Galvantula,Bug,Electric,5,FALSE,common
+597,Ferroseed,Grass,Steel,5,FALSE,common
+598,Ferrothorn,Grass,Steel,5,FALSE,common
+599,Klink,Steel,,5,FALSE,common
+600,Klang,Steel,,5,FALSE,common
+601,Klinklang,Steel,,5,FALSE,common
+602,Tynamo,Electric,,5,FALSE,common
+603,Eelektrik,Electric,,5,FALSE,common
+604,Eelektross,Electric,,5,FALSE,common
+605,Elgyem,Psychic,,5,FALSE,common
+606,Beheeyem,Psychic,,5,FALSE,common
+607,Litwick,Ghost,Fire,5,FALSE,common
+608,Lampent,Ghost,Fire,5,FALSE,common
+609,Chandelure,Ghost,Fire,5,FALSE,common
+610,Axew,Dragon,,5,FALSE,common
+611,Fraxure,Dragon,,5,FALSE,common
+612,Haxorus,Dragon,,5,FALSE,common
+613,Cubchoo,Ice,,5,FALSE,common
+614,Beartic,Ice,,5,FALSE,common
+615,Cryogonal,Ice,,5,FALSE,common
+616,Shelmet,Bug,,5,FALSE,common
+617,Accelgor,Bug,,5,FALSE,common
+618,Stunfisk,Ground,Electric,5,FALSE,common
+619,Mienfoo,Fighting,,5,FALSE,common
+620,Mienshao,Fighting,,5,FALSE,common
+621,Druddigon,Dragon,,5,FALSE,common
+622,Golett,Ground,Ghost,5,FALSE,common
+623,Golurk,Ground,Ghost,5,FALSE,common
+624,Pawniard,Dark,Steel,5,FALSE,common
+625,Bisharp,Dark,Steel,5,FALSE,common
+626,Bouffalant,Normal,,5,FALSE,common
+627,Rufflet,Normal,Flying,5,FALSE,common
+628,Braviary,Normal,Flying,5,FALSE,common
+629,Vullaby,Dark,Flying,5,FALSE,common
+630,Mandibuzz,Dark,Flying,5,FALSE,common
+631,Heatmor,Fire,,5,FALSE,common
+632,Durant,Bug,Steel,5,FALSE,common
+633,Deino,Dark,Dragon,5,FALSE,common
+634,Zweilous,Dark,Dragon,5,FALSE,common
+635,Hydreigon,Dark,Dragon,5,FALSE,common
+636,Larvesta,Bug,Fire,5,FALSE,common
+637,Volcarona,Bug,Fire,5,FALSE,common
+638,Cobalion,Steel,Fighting,5,TRUE,rare
+639,Terrakion,Rock,Fighting,5,TRUE,rare
+640,Virizion,Grass,Fighting,5,TRUE,rare
+641,TornadusIncarnate Forme,Flying,,5,TRUE,rare
+641,TornadusTherian Forme,Flying,,5,TRUE,rare
+642,ThundurusIncarnate Forme,Electric,Flying,5,TRUE,rare
+642,ThundurusTherian Forme,Electric,Flying,5,TRUE,rare
+643,Reshiram,Dragon,Fire,5,TRUE,rare
+644,Zekrom,Dragon,Electric,5,TRUE,rare
+645,LandorusIncarnate Forme,Ground,Flying,5,TRUE,rare
+645,LandorusTherian Forme,Ground,Flying,5,TRUE,rare
+646,Kyurem,Dragon,Ice,5,TRUE,rare
+646,KyuremBlack Kyurem,Dragon,Ice,5,TRUE,rare
+646,KyuremWhite Kyurem,Dragon,Ice,5,TRUE,rare
+647,KeldeoOrdinary Forme,Water,Fighting,5,FALSE,common
+647,KeldeoResolute Forme,Water,Fighting,5,FALSE,common
+648,MeloettaAria Forme,Normal,Psychic,5,FALSE,common
+648,MeloettaPirouette Forme,Normal,Fighting,5,FALSE,common
+649,Genesect,Bug,Steel,5,FALSE,common
+650,Chespin,Grass,,6,FALSE,common
+651,Quilladin,Grass,,6,FALSE,common
+652,Chesnaught,Grass,Fighting,6,FALSE,common
+653,Fennekin,Fire,,6,FALSE,common
+654,Braixen,Fire,,6,FALSE,common
+655,Delphox,Fire,Psychic,6,FALSE,common
+656,Froakie,Water,,6,FALSE,common
+657,Frogadier,Water,,6,FALSE,common
+658,Greninja,Water,Dark,6,FALSE,common
+659,Bunnelby,Normal,,6,FALSE,common
+660,Diggersby,Normal,Ground,6,FALSE,common
+661,Fletchling,Normal,Flying,6,FALSE,common
+662,Fletchinder,Fire,Flying,6,FALSE,common
+663,Talonflame,Fire,Flying,6,FALSE,common
+664,Scatterbug,Bug,,6,FALSE,common
+665,Spewpa,Bug,,6,FALSE,common
+666,Vivillon,Bug,Flying,6,FALSE,common
+667,Litleo,Fire,Normal,6,FALSE,common
+668,Pyroar,Fire,Normal,6,FALSE,common
+669,Flabébé,Fairy,,6,FALSE,common
+670,Floette,Fairy,,6,FALSE,common
+671,Florges,Fairy,,6,FALSE,common
+672,Skiddo,Grass,,6,FALSE,common
+673,Gogoat,Grass,,6,FALSE,common
+674,Pancham,Fighting,,6,FALSE,common
+675,Pangoro,Fighting,Dark,6,FALSE,common
+676,Furfrou,Normal,,6,FALSE,common
+677,Espurr,Psychic,,6,FALSE,common
+678,MeowsticMale,Psychic,,6,FALSE,common
+678,MeowsticFemale,Psychic,,6,FALSE,common
+679,Honedge,Steel,Ghost,6,FALSE,common
+680,Doublade,Steel,Ghost,6,FALSE,common
+681,AegislashBlade Forme,Steel,Ghost,6,FALSE,common
+681,AegislashShield Forme,Steel,Ghost,6,FALSE,common
+682,Spritzee,Fairy,,6,FALSE,common
+683,Aromatisse,Fairy,,6,FALSE,common
+684,Swirlix,Fairy,,6,FALSE,common
+685,Slurpuff,Fairy,,6,FALSE,common
+686,Inkay,Dark,Psychic,6,FALSE,common
+687,Malamar,Dark,Psychic,6,FALSE,common
+688,Binacle,Rock,Water,6,FALSE,common
+689,Barbaracle,Rock,Water,6,FALSE,common
+690,Skrelp,Poison,Water,6,FALSE,common
+691,Dragalge,Poison,Dragon,6,FALSE,common
+692,Clauncher,Water,,6,FALSE,common
+693,Clawitzer,Water,,6,FALSE,common
+694,Helioptile,Electric,Normal,6,FALSE,common
+695,Heliolisk,Electric,Normal,6,FALSE,common
+696,Tyrunt,Rock,Dragon,6,FALSE,common
+697,Tyrantrum,Rock,Dragon,6,FALSE,common
+698,Amaura,Rock,Ice,6,FALSE,common
+699,Aurorus,Rock,Ice,6,FALSE,common
+700,Sylveon,Fairy,,6,FALSE,common
+701,Hawlucha,Fighting,Flying,6,FALSE,common
+702,Dedenne,Electric,Fairy,6,FALSE,common
+703,Carbink,Rock,Fairy,6,FALSE,common
+704,Goomy,Dragon,,6,FALSE,common
+705,Sliggoo,Dragon,,6,FALSE,common
+706,Goodra,Dragon,,6,FALSE,common
+707,Klefki,Steel,Fairy,6,FALSE,common
+708,Phantump,Ghost,Grass,6,FALSE,common
+709,Trevenant,Ghost,Grass,6,FALSE,common
+712,Bergmite,Ice,,6,FALSE,common
+713,Avalugg,Ice,,6,FALSE,common
+714,Noibat,Flying,Dragon,6,FALSE,common
+715,Noivern,Flying,Dragon,6,FALSE,common
+716,Xerneas,Fairy,,6,TRUE,rare
+717,Yveltal,Dark,Flying,6,TRUE,rare
+718,Zygarde50% Forme,Dragon,Ground,6,TRUE,rare
+719,Diancie,Rock,Fairy,6,TRUE,rare
+719,DiancieMega Diancie,Rock,Fairy,6,TRUE,rare
+720,HoopaHoopa Confined,Psychic,Ghost,6,TRUE,rare
+720,HoopaHoopa Unbound,Psychic,Dark,6,TRUE,rare
+721,Volcanion,Fire,Water,6,TRUE,rare
