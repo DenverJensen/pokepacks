@@ -1,4 +1,6 @@
 from django.db import models
+from django.utils import timezone
+
 
 # Create your models here.
 
@@ -18,7 +20,7 @@ class UsersPokemon(models.Model):
 
     pokemonID = models.IntegerField()
     UserID = models.IntegerField()
-    dateRolled = models.DateField()
+    dateRolled = models.DateField(default=timezone.now)
 
 class CSVFile(models.Model):
     file = models.FileField(upload_to='csv_files/')

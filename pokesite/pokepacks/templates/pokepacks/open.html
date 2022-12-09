@@ -14,13 +14,12 @@
             <div class="home-container">
                 <h1>Daily Pack</h1>
                 <form method="POST">
-                    {% csrf_token %}
-                    {% for pokemon in pokemon_pulls %}
-                        <li>{{ pokemon.name }}</li>
+                    {% csrf_token %} {% for pokemon in pokemon_pulls %}
+                    <li>{{ pokemon.name }}</li>
                     {% empty %}
-                        <button type="submit" class="pull-button btn btn-secondary">
-                            Pull Cards
-                        </button>
+                    <button type="submit" class="pull-button btn btn-secondary">
+                        Pull Cards
+                    </button>
                     {% endfor %}
                 </form>
             </div>

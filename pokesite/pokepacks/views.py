@@ -1,12 +1,13 @@
 import csv
 from django.shortcuts import render
 import os
+import random
 
 from re import template
 from django.shortcuts import redirect, render
 from django.http import HttpResponse
 from django.contrib.auth.decorators import login_required
-from .models import Pokemon, CSVFile
+from .models import Pokemon, CSVFile, UsersPokemon
 
 from django.template import loader
 
@@ -19,17 +20,46 @@ def home(request):
 
 
 # packs are made up of 5 cards. default: 3 common, 2 rare
-# each pack will then have a 1/5 chance for epic and 1/10 chance for legendary. 
+# each pack will then have a 1/5 chance for epic and 1/10 chance for legendary.
 # If successful, will replace one of the 5 cards in the pack randomly
 def openPacks(request):
-    print(request.method)
+    message = ''
     if (request.method == 'POST'):
-        commonMons = Pokemon.objects.all()
-        print(commonMons)
+        
+        #pull 3 commons
+        commonMons = list(Pokemon.objects.filter(rarity="common"))
+        comMons = random.sample(commonMons, 3)
+        
+        #pull 3 rare
+        rare = list(Pokemon.objects.filter(rarity="rare"))
+        rareMons = random.sample(rare, 2)
+        pulledMons = comMons + rareMons 
 
+        #roll for 1/5 chance at epic drop
+        roll = random.randint(1, 5)
+        if (roll == 5):
+            epic = list(Pokemon.objects.filter(rarity="epic"))
+            epicMons = random.sample(epic, 1)
+            pulledMons.pop()
+            pulledMons = pulledMons + epicMons 
 
-        return render(request, 'pokepacks/open.html', {'pokemon_pulls':commonMons})
-    return render(request, 'pokepacks/open.html', {})
+        # roll 1/10 chance for legendary drop
+        roll = random.randint(1, 10)
+        if (roll == 10):
+            legList = list(Pokemon.objects.filter(rarity="legendary"))
+            legMons = random.sample(legList, 1)
+            pulledMons.pop()
+            pulledMons = pulledMons + legMons
+        
+        #insert pack into user collection
+        for x in pulledMons:
+            user_id = request.user.id # Get user_id from request
+            UsersPokemon.objects.create(pokemonID=x.id, UserID=user_id)
+
+        return render(request, 'pokepacks/open.html', {
+            'pokemon_pulls': pulledMons,
+        })
+    return render(request, 'pokepacks/open.html',{})
 
 
 #load pokemon data from pokemon.csv
@@ -38,17 +68,18 @@ def loadPacks(request):
     Pokemon.objects.all().delete()
 
     #get pokemon csv file in this directory
-    workpath = os.path.dirname(os.path.abspath(__file__)) #Returns the Path your .py file is in
+    workpath = os.path.dirname(
+        os.path.abspath(__file__))  #Returns the Path your .py file is in
     c = open(os.path.join(workpath, 'pokemon.csv'), 'r')
     reader = csv.reader(c)
 
     #iterate csv and insert into DB
     for row in reader:
-        _, created = Pokemon.objects.get_or_create(
-            name=row[1],
-            type1=row[2],
-            type2=row[3],
-            rarity=row[6],
-            generation=row[4]
-            )
+        #only load first gen pokemon for now
+        if(row[4]=='1'):
+            _, created = Pokemon.objects.get_or_create(name=row[1],
+                                                    type1=row[2],
+                                                    type2=row[3],
+                                                    rarity=row[6],
+                                                    generation=row[4])
     return render(request, 'pokepacks/home.html', {})
