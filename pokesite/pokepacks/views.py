@@ -18,7 +18,11 @@ def home(request):
     context = {}
     return render(request, 'pokepacks/home.html', context)
 
+def market(request):
+    context = {}
+    return render(request, 'pokepacks/market.html', context)
 
+	
 # packs are made up of 5 cards. default: 3 common, 2 rare
 # each pack will then have a 1/5 chance for epic and 1/10 chance for legendary.
 # If successful, will replace one of the 5 cards in the pack randomly
@@ -95,17 +99,23 @@ def collection(request):
 
 	#get the users pokemin ID list
     usersIndexeslist = list(UsersPokemon.objects.filter(UserID=user_id))
+	
 	#get pokemon IDs and create a list of indexes
     indexes = []
     for y in usersIndexeslist:
        indexes.append(y.pokemonID)
+	
 	#search pokemon using indexes
     UsersPokemons = []
     UsersPokemons = Pokemon.objects.filter(pokeID__in=indexes)
-    # name = request.GET.get('pokemon_name')
-    # if name != '' and name is not None:
-    #     object = object.filter(name__icontains=name)
-    print(UsersPokemons)
+    name = request.GET.get('pokemon_name')
+    if name != '' and name is not None:
+        UsersPokemons = UsersPokemons.filter(name__icontains=name)
+    
+    paginator = Paginator(UsersPokemons, 10)
+    page = request.GET.get('page')
+    UsersPokemons = paginator.get_page(page)
+
     return render(request, 'pokepacks/collection.html', {
-        "pokemon_pulls": UsersPokemons
+        "object": UsersPokemons
     })

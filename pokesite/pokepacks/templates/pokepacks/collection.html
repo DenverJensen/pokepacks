@@ -13,14 +13,23 @@
         <div class="d-flex justify-content-center">
             <div class="home-container">
                 <h1>Collection</h1>
-                <form method="POST">
-                    {% csrf_token %} {% for pokemon in pokemon_pulls %}{{QuerySet}}{{Pokemon}}
+                <form action="" method="GET">
+                    {% csrf_token %}
+                    <input type="search" name="pokemon_name" />
+                    <button type="submit">Search</button>
+                    {% for pokemon in object %}
                     <li>{{ pokemon.name }}</li>
-                    {% empty %}
-                        <button type="submit" class="pull-button btn btn-secondary">
-                            Pull Cards
-                        </button>
-                    {% endfor %}
+
+                    {% endfor %}{% if object.has_previous %}
+                    <a href="?page=1">First</a>
+                    <a href="?page={{ object.previous_page_number }}"
+                        >Previous</a
+                    >
+                    {% endif %} Page: {{ object.number }} of
+                    {{object.paginator.num_pages}} {% if object.has_next %}
+                    <a href="?page={{ object.next_page_number }}">Next</a>
+                    <a href="?page={{ object.paginator.num_pages }}">Last</a>
+                    {% endif %}
                 </form>
             </div>
         </div>
