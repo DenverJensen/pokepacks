@@ -6,5 +6,7 @@ urlpatterns = [
     path('home/', views.home, name='home'),
     path('open/', views.openPacks, name='open'),
     path('load/', views.loadPacks, name='loadPacks'),
+    path('collection/', views.collection, name='collection'),
+
 
 ]

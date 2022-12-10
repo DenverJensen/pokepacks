@@ -1,16 +1,16 @@
-1,Bulbasaur,Grass,Poison,1,FALSE,common
-2,Ivysaur,Grass,Poison,1,FALSE,common
-3,Venusaur,Grass,Poison,1,FALSE,common
-3,VenusaurMega Venusaur,Grass,Poison,1,FALSE,common
-4,Charmander,Fire,,1,FALSE,common
-5,Charmeleon,Fire,,1,FALSE,common
-6,Charizard,Fire,Flying,1,FALSE,common
-6,CharizardMega Charizard X,Fire,Dragon,1,FALSE,common
-6,CharizardMega Charizard Y,Fire,Flying,1,FALSE,common
-7,Squirtle,Water,,1,FALSE,common
-8,Wartortle,Water,,1,FALSE,common
-9,Blastoise,Water,,1,FALSE,common
-9,BlastoiseMega Blastoise,Water,,1,FALSE,common
+1,Bulbasaur,Grass,Poison,1,FALSE,rare
+2,Ivysaur,Grass,Poison,1,FALSE,rare
+3,Venusaur,Grass,Poison,1,FALSE,rare
+3,VenusaurMega Venusaur,Grass,Poison,1,FALSE,rare
+4,Charmander,Fire,,1,FALSE,rare
+5,Charmeleon,Fire,,1,FALSE,rare
+6,Charizard,Fire,Flying,1,FALSE,epic
+6,CharizardMega Charizard X,Fire,Dragon,1,FALSE,epic
+6,CharizardMega Charizard Y,Fire,Flying,1,FALSE,epic
+7,Squirtle,Water,,1,FALSE,rare
+8,Wartortle,Water,,1,FALSE,rare
+9,Blastoise,Water,,1,FALSE,rare
+9,BlastoiseMega Blastoise,Water,,1,FALSE,rare
 10,Caterpie,Bug,,1,FALSE,common
 11,Metapod,Bug,,1,FALSE,common
 12,Butterfree,Bug,Flying,1,FALSE,common
@@ -42,7 +42,7 @@
 36,Clefable,Fairy,,1,FALSE,common
 37,Vulpix,Fire,,1,FALSE,common
 38,Ninetales,Fire,,1,FALSE,common
-39,Jigglypuff,Normal,Fairy,1,FALSE,common
+39,Jigglypuff,Normal,Fairy,1,FALSE,epic
 40,Wigglytuff,Normal,Fairy,1,FALSE,common
 41,Zubat,Poison,Flying,1,FALSE,common
 42,Golbat,Poison,Flying,1,FALSE,common
@@ -60,7 +60,7 @@
 54,Psyduck,Water,,1,FALSE,common
 55,Golduck,Water,,1,FALSE,common
 56,Mankey,Fighting,,1,FALSE,common
-57,Primeape,Fighting,,1,FALSE,common
+57,Primeape,Fighting,,1,FALSE,rare
 58,Growlithe,Fire,,1,FALSE,common
 59,Arcanine,Fire,,1,FALSE,common
 60,Poliwag,Water,,1,FALSE,common
@@ -129,7 +129,7 @@
 119,Seaking,Water,,1,FALSE,common
 120,Staryu,Water,,1,FALSE,common
 121,Starmie,Water,Psychic,1,FALSE,common
-122,Mr. Mime,Psychic,Fairy,1,FALSE,common
+122,Mr. Mime,Psychic,Fairy,1,FALSE,epic
 123,Scyther,Bug,Flying,1,FALSE,common
 124,Jynx,Ice,Psychic,1,FALSE,common
 125,Electabuzz,Electric,,1,FALSE,common
@@ -153,17 +153,17 @@
 141,Kabutops,Rock,Water,1,FALSE,common
 142,Aerodactyl,Rock,Flying,1,FALSE,common
 142,AerodactylMega Aerodactyl,Rock,Flying,1,FALSE,common
-143,Snorlax,Normal,,1,FALSE,common
+143,Snorlax,Normal,,1,FALSE,epic
 144,Articuno,Ice,Flying,1,TRUE,rare
-145,Zapdos,Electric,Flying,1,TRUE,rare
-146,Moltres,Fire,Flying,1,TRUE,rare
+145,Zapdos,Electric,Flying,1,TRUE,legendary
+146,Moltres,Fire,Flying,1,TRUE,legendary
 147,Dratini,Dragon,,1,FALSE,common
 148,Dragonair,Dragon,,1,FALSE,common
 149,Dragonite,Dragon,Flying,1,FALSE,common
-150,Mewtwo,Psychic,,1,TRUE,rare
-150,MewtwoMega Mewtwo X,Psychic,Fighting,1,TRUE,rare
-150,MewtwoMega Mewtwo Y,Psychic,,1,TRUE,rare
-151,Mew,Psychic,,1,FALSE,common
+150,Mewtwo,Psychic,,1,TRUE,legendary
+150,MewtwoMega Mewtwo X,Psychic,Fighting,1,TRUE,legendary
+150,MewtwoMega Mewtwo Y,Psychic,,1,TRUE,legendary
+151,Mew,Psychic,,1,FALSE,legendary
 152,Chikorita,Grass,,2,FALSE,common
 153,Bayleef,Grass,,2,FALSE,common
 154,Meganium,Grass,,2,FALSE,common
