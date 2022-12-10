@@ -12,9 +12,9 @@
         {% block body %}
         <div class="d-flex justify-content-center">
             <div class="home-container">
-                <h1>Daily Pack</h1>
+                <h1>Collection</h1>
                 <form method="POST">
-                    {% csrf_token %} {% for pokemon in pokemon_pulls %}
+                    {% csrf_token %} {% for pokemon in pokemon_pulls %}{{QuerySet}}{{Pokemon}}
                     <li>{{ pokemon.name }}</li>
                     {% empty %}
                         <button type="submit" class="pull-button btn btn-secondary">

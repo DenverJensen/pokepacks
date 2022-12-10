@@ -8,7 +8,7 @@ from django.utils import timezone
 class Pokemon(models.Model):
     def __str__(self) -> str:
         return self.name
-
+    pokeID = models.IntegerField(default=0)
     name = models.CharField(max_length=200)
     type1 = models.CharField(max_length=200)
     type2 = models.CharField(max_length=200, null="true", blank="true")
@@ -17,8 +17,10 @@ class Pokemon(models.Model):
     generation = models.IntegerField()
 
 class UsersPokemon(models.Model):
-
+    def __str__(self) -> str:
+        return self.pokemonName
     pokemonID = models.IntegerField()
+    pokemonName = models.CharField(max_length=200, default="")
     UserID = models.IntegerField()
     dateRolled = models.DateField(default=timezone.now)
 
