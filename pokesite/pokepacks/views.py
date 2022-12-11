@@ -9,6 +9,8 @@ from django.http import HttpResponse
 from django.contrib.auth.decorators import login_required
 from .models import Pokemon, CSVFile, UsersPokemon
 from django.core.paginator import Paginator
+from django.utils import timezone
+
 
 from django.template import loader
 
@@ -54,8 +56,6 @@ def openPacks(request):
             legMons = random.sample(legList, 1)
             pulledMons.pop()
             pulledMons = pulledMons + legMons
-        print("\n\nopen\n\n")
-        print(pulledMons)
 
         #insert pack into user collection
         for x in pulledMons:
@@ -67,7 +67,20 @@ def openPacks(request):
         return render(request, 'pokepacks/open.html', {
             'pokemon_pulls': pulledMons,
         })
-    return render(request, 'pokepacks/open.html', {})
+    user_id = request.user.id  # Get user_id from request
+
+	#get the users pokemin ID list
+    usersIndexeslist = list(UsersPokemon.objects.filter(UserID=user_id, dateRolled__gte=timezone.now().replace(hour=0, minute=0, second=0)))
+    print(timezone.now().replace(hour=0, minute=0, second=0))
+	#get pokemon IDs and create a list of indexes
+    indexes = []
+    for y in usersIndexeslist:
+       indexes.append(y.pokemonID)
+	
+	#search pokemon using indexes
+    UsersPokemons = []
+    UsersPokemons = Pokemon.objects.filter(pokeID__in=indexes)
+    return render(request, 'pokepacks/open.html', {'pokemon_pulls': UsersPokemons})
 
 
 #load pokemon data from pokemon.csv
