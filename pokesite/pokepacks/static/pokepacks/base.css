@@ -157,3 +157,18 @@ label{
 	min-height: 200px;
 	box-shadow: 3px 5px #505050;
 }
+.rare-card{
+	background-color:  rgba(52, 16, 255, 0.6);
+}
+
+.common-card{
+	background-color:  rgba(255, 120, 16, 0.6);
+}
+
+.epic-card{
+	background-color:  rgba(167, 16, 255, 0.6);
+}
+
+.legendary-card{
+	background-color:  rgba(225, 255, 0, 0.6);
+}
