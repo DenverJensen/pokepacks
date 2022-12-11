@@ -12,12 +12,6 @@ div.alert{
 .navbar {
     background-color:rgb(255, 255, 255) !important;
 }
-.home-container{
-    background-color: white;
-    display: inline-block;
-    margin:10px;
-    border: 5px;
-}
 
 .navbar{
 	border-bottom: 30px solid black;
@@ -35,6 +29,12 @@ div.alert{
 .home-container{
 	display: inline-block;
 	background-color: rgba(255, 255, 255, 0.6);
+	padding: 16px;
+	margin:16px;
+}
+
+.already-pulled{
+	display: inline-flex;
 	padding: 16px;
 	margin:16px;
 }
@@ -140,4 +140,20 @@ form {
 }
 label{
 	margin-bottom: 5px;
+}
+
+.open-container{
+	display: inline-block;
+	background-color: rgba(255, 255, 255, 0.6);
+	padding: 16px;
+	margin:16px;
+	width: 80%;
+}
+
+.card{
+	padding: 16px;
+	margin:16px;
+	background-color:  rgba(255, 115, 16, 0.6);
+	min-height: 200px;
+	box-shadow: 3px 5px #505050;
 }
