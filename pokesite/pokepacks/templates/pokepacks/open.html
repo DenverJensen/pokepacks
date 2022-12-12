@@ -22,7 +22,7 @@
                 <form method="POST">
                     <div class="already-pulled row">
                         {% csrf_token %} {% for pokemon in pokemon_pulls %}
-                        <div class="card col-md-2">
+                        <div class="{{pokemon.rarity}}-card card col-md-2">
                             {{ pokemon.name }}
                         </div>
                         {% empty %}
